@@ -1,16 +1,17 @@
-## Hi there 👋
+## Olá eu sou o Guilherme Rocha!
+Software Developer | Automation & Data Processing Enthusiast
 
-<!--
-**Gu1lh3rm3r0ch4/Gu1lh3rm3r0ch4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um desenvolvedor focado em automação de processos, integração de sistemas e tratamento de dados, sempre buscando criar soluções eficientes, escaláveis e inteligentes. Atualmente, divido meu tempo entre projetos profissionais e pessoais voltados para automação, análise de dados, otimização de fluxos operacionais e desenvolvimento de ferramentas que aumentem produtividade e performance.
+##
 
-Here are some ideas to get you started:
+<div> 
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height=60px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height=60px  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height=60px  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height=60px  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height=60px />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height=60px />
+          
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
